@@ -1,0 +1,2 @@
+INSERT INTO `full-stack-ecommerce`.episode (id, episode_name, season_number, episode_number) VALUES (1, 'Pilot Breakdown', 1, 1);
+INSERT INTO `full-stack-ecommerce`.episode (id, episode_name, season_number, episode_number) VALUES (2, 'The Stone Breakdown', 3, 2);
